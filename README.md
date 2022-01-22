@@ -2,7 +2,7 @@
 
 # Programa para desenvolver e praticar um programa consome API's através do HTTP Java
 
-### Neste projeto utilizei o HTTP Java para consumir API, aplicando alguns testes e exercícios de GET e Tentavia (Com erro previstp), de fazer um POST.
+### Neste projeto utilizei o HTTP Java para consumir API, aplicando alguns testes e exercícios de GET e tentavia (Com erro previsto), de fazer um POST.
 #### O projeto tem o foco central de exercitar a programação com  consumo de API.
 
 ## 🚀 Começando
